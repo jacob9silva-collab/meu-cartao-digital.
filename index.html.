@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cartão Digital - Jacob Almeida</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; padding: 50px; background-color: #f4f4f4; }
+        .button { display: block; width: 200px; margin: 10px auto; padding: 15px; background: #007bff; color: white; text-decoration: none; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Jacob Almeida</h1>
+    <p>Criative Tech / Articulador Político</p>
+    <a href="https://wa.me/5561981531723" class="button">Chame no Whats</a>
+    <a href="https://www.instagram.com/jacob9almeida" class="button">Instagram</a>
+    <a href="https://www.tiktok.com/@jacob9almeida" class="button">TikTok</a>
+</body>
+</html>
+
